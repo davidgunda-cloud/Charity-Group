@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.davidgunda_cloud.twa",
+        "sha256_cert_fingerprints": ["40:80:DB:82:1F:E3:68:92:77:E0:E5:70:81:18:7C:A1:49:E1:F6:95:F9:9B:00:24:37:85:59:51:0E:88:62:3F"]
+      }
+    }]
